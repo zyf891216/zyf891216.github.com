@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin : 0px;
+	padding: 0px;
+	font-size: 12px;
+}
+.b1 {
+	width: 100%;
+	height: auto;
+	background-color: #FFFFFF;
+}
+.b2 {
+	width: 100%;
+	height: auto;
+	background-color: #E8ECF1;
+}
+.b3 {
+	width: 100%;
+	height: auto;
+	background-color: #333333;
+}
+.education {
+	font-size: 30px;
+	font-family: pt-sans;
+	color: #ABABAB;
+	width: 30%;
+	height: 210px;
+	;
+	float: left;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+h3 {
+	font-size: 20px;
+	color: #1D2B62;
+}
+.school1 {
+	margin: 10px;
+	font-size: 15px;
+	font-family: buda;
+}
+.school2 {
+	margin: 10px;
+	font-size: 15px;
+	font-family: buda;
+}
+.work {
+	font-size: 30px;
+	font-family: pt-sans;
+	color: #ABABAB;
+	width: 30%;
+	height: 300px;
+	float: left;
+	padding-top: 50px;
+	padding-left: 50px;
+	background-color: #E8ECF1;
+}
+.work1 {
+	margin: 10px;
+	padding-top: 10px;
+	font-size: 15px;
+	font-family: buda;
+	background-color: #E8ECF1;
+}
+.work2 {
+	margin: 10px;
+	margin-bottom: 0px;
+	font-size: 15px;
+	font-family: buda;
+	background-color: #E8ECF1;
+}
+.contact {
+	font-size: 30px;
+	font-family: pt-sans;
+	color: #ABABAB;
+	width: 30%;
+	height: 120px;
+	float: left;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+h4 {
+	font-size: 15px;
+	font-family: aclonica;
+	color: #FFFFFF;
+}
+.info {
+	height: 170px;
+	padding-top: 15px;
+	font-size: 12px;
+	font-family: antic-didone;
+	color: white;
+}
