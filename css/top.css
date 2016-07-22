@@ -14,7 +14,9 @@
 	top: 0px;
 }
 .top_content {
-	padding-left: 50%;
+	padding-left:40%;
+	text-align: center;
+	width:auto;
 	margin: 0 auto;
 	background-image: url(../images/30px.jpg);
 }
