@@ -7,13 +7,14 @@
 }
 .b1 {
 	width: 100%;
-	height: auto;
+	height: 320px;
 	background-color: #FFFFFF;
 }
 .b2 {
 	width: 100%;
-	height: auto;
-	background-color: #E8ECF1;
+	height: 420px;
+	border-top-style: ridge;
+	background-color: #FFFFFF;
 }
 .b3 {
 	width: 100%;
@@ -25,8 +26,7 @@
 	font-family: pt-sans;
 	color: #ABABAB;
 	width: 30%;
-	height: 210px;
-	;
+	height: auto;
 	float: left;
 	padding-top: 50px;
 	padding-left: 50px;
@@ -35,40 +35,33 @@ h3 {
 	font-size: 20px;
 	color: #1D2B62;
 }
-.school1 {
+.school {
 	margin: 10px;
 	font-size: 15px;
 	font-family: buda;
-}
-.school2 {
-	margin: 10px;
-	font-size: 15px;
-	font-family: buda;
+	width: auto;
+	height: auto;
+	float: left;
 }
 .work {
 	font-size: 30px;
 	font-family: pt-sans;
 	color: #ABABAB;
 	width: 30%;
-	height: 300px;
+	height: auto;
 	float: left;
 	padding-top: 50px;
 	padding-left: 50px;
-	background-color: #E8ECF1;
+	background-color: #FFFFFF;
 }
 .work1 {
 	margin: 10px;
+	height: 400px;
 	padding-top: 10px;
+	float: left;
 	font-size: 15px;
 	font-family: buda;
-	background-color: #E8ECF1;
-}
-.work2 {
-	margin: 10px;
-	margin-bottom: 0px;
-	font-size: 15px;
-	font-family: buda;
-	background-color: #E8ECF1;
+	background-color: #FFFFFF;
 }
 .contact {
 	font-size: 30px;
