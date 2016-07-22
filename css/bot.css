@@ -5,26 +5,83 @@
 	padding: 0px;
 	font-size: 12px;
 }
-.bot {
+.b1 {
 	width: 100%;
-	height: 40px;
-	background: #000000;
-	background: -webkit-linear-gradient(to left, #434343, #000000);
-	background: linear-gradient(to left, #434343, #000000);
+	height: 320px;
+	background-color: #FFFFFF;
 }
-.final {
-	float: right;
-	color: white;
+.b2 {
+	width: 100%;
+	height: 420px;
+	border-top-style: ridge;
+	background-color: #FFFFFF;
+}
+.b3 {
+	width: 100%;
+	height: auto;
+	background-color: #333333;
+}
+.education {
+	font-size: 30px;
+	font-family: pt-sans;
+	color: #ABABAB;
+	width: 30%;
+	height: auto;
+	float: left;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+h3 {
+	font-size: 20px;
+	color: #1D2B62;
+}
+.school {
+	margin: 10px;
+	font-size: 15px;
+	font-family: buda;
+	width: auto;
+	height: auto;
+	float: left;
+}
+.work {
+	font-size: 30px;
+	font-family: pt-sans;
+	color: #ABABAB;
+	width: 30%;
+	height: auto;
+	float: left;
+	padding-top: 50px;
+	padding-left: 50px;
+	background-color: #FFFFFF;
+}
+.work1 {
+	margin: 10px;
+	height: 400px;
 	padding-top: 10px;
-	padding-right: 20px;
-	font-family: source-sans-pro;
-}
-h5 {
+	float: left;
 	font-size: 15px;
-	font-weight: 200;
+	font-family: buda;
+	background-color: #FFFFFF;
 }
-span {
+.contact {
+	font-size: 30px;
+	font-family: pt-sans;
+	color: #ABABAB;
+	width: 30%;
+	height: 120px;
+	float: left;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+h4 {
 	font-size: 15px;
-	font-weight: 200;
-	color: red;
+	font-family: aclonica;
+	color: #FFFFFF;
+}
+.info {
+	height: 170px;
+	padding-top: 15px;
+	font-size: 12px;
+	font-family: antic-didone;
+	color: white;
 }
